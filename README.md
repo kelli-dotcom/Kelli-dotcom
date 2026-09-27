@@ -7,4 +7,4 @@ Founder of CRTA Tech Solutions and CRTA Kidz (Philadelphia, PA). I build practic
 🌱 Founder journey: kitchen lead & certified PIC → teaching myself to build software with AI
 📫 Reach me: kellinicolereeves38@gmail.com
 ￼
-Then tap Preview first if you want to see how it looks before committing.
+
