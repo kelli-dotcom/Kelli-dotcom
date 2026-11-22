@@ -2,17 +2,19 @@
 
 I'm **Kelli Reeves-Jennings** — Founder of **CRTA Tech Solutions** and **CRTA Kidz** (Philadelphia, PA). I build practical software for food operators, schools, and remote workers — starting with the people who feed communities and kids every day.
 
-### 🚀 Open-Source Ecosystem (MIT · CRTA Tech Solutions)
+### 🚀 Open-Source Ecosystem (9 MIT Repositories · CRTA Tech Solutions)
 
 | Repository | What It Does | Highlights |
 | :--- | :--- | :--- |
-| **[openflex](https://github.com/kelli-dotcom/openflex)** | Zero-cost, anti-ghost, Remote-Truth job board | 61 verified ATS feeds · 292+ Gatekeeper Pass · Skill Matcher · 12 themes |
+| **[openflex](https://github.com/kelli-dotcom/openflex)** | Zero-cost, anti-ghost, Remote-Truth job board | 94+ verified ATS feeds · 1,850+ live remote roles · Active Lead Hunter · 12 themes |
+| **[universal-master-context](https://github.com/kelli-dotcom/universal-master-context)** | Adaptive `<150`-line Master Context (`CONTEXT.md`) generator + AI skill | 4 project-contour templates (`<80` lines) · 3 hardware profiles · 0 duplication |
+| **[empathy-marketing-skills](https://github.com/kelli-dotcom/empathy-marketing-skills)** | 5 modular AI skills for user empathy, positioning & premium client strategy | Forced Empathy Cycle · Category edges · 1,000 True Fans · Before/After story |
 | **[stack-blueprints](https://github.com/kelli-dotcom/stack-blueprints)** | 5-tier developer stack matrix & workflow file-order CLI + AI skill | `<5 KB` Featherweight to Enterprise · 0 deps · Exact build file orders |
 | **[feather-speed](https://github.com/kelli-dotcom/feather-speed)** | Hardware-aware adaptive frontend & backend speed engine + AI skill | Auto-tunes to live RAM, CPU cores & network (`ECO` / `BALANCED` / `ULTRA`) |
 | **[feather-themes](https://github.com/kelli-dotcom/feather-themes)** | Ultra-lightweight photobiology theme kit (Web & App) | 1,092 WCAG 2.1 AA/AAA themes · 0 deps · Powers Openflex |
 | **[agent-etiquette](https://github.com/kelli-dotcom/agent-etiquette)** | Multi-agent workflow rules & JSON handoff schemas | Rule of 2 loop cap · 3-agent cap · Agent-ready for all models |
 | **[archetype-agent-vault](https://github.com/kelli-dotcom/archetype-agent-vault)** | 7 character-driven AI coding agent suites | 27 IP-safe specialists · Zero trigger collisions · Model-agnostic |
-| **[github-trending-kit](https://github.com/kelli-dotcom/github-trending-kit)** | AI agent & skill kit for high-converting GitHub repos | Top-README design spec · SEO topics · Launch copy |
+| **[github-trending-kit](https://github.com/kelli-dotcom/github-trending-kit)** | AI agent & skill kit for high-converting GitHub repos | Top-README design spec · Contribution setup · SEO topics · Launch copy |
 
 ### 🔨 Currently Building
 
@@ -25,7 +27,9 @@ I'm **Kelli Reeves-Jennings** — Founder of **CRTA Tech Solutions** and **CRTA 
 
 | Project | Focus | Progress | Status |
 | :--- | :--- | :--- | :--- |
-| **Openflex** | Anti-ghost, Remote-Truth job board | `██████████` **100%** | Live on GitHub (v0.4 · CI Green) |
+| **Openflex** | Anti-ghost, Remote-Truth job board (`94+` ATS feeds) | `██████████` **100%** | Live on GitHub (v0.4 · CI Green) |
+| **Universal Master Context** | Contoured `<150`-line Master Context generator | `██████████` **100%** | Live on GitHub (v1.0.0 · All Models) |
+| **Empathy Marketing Skills** | 5 modular AI skills for empathy & positioning | `██████████` **100%** | Live on GitHub (v1.0.0 · All Models) |
 | **Stack Blueprints** | 5-tier dev stack matrix & file-order CLI | `██████████` **100%** | Live on GitHub (v1.0 · 0 Deps) |
 | **Feather Speed** | Hardware-aware adaptive RAM/CPU speed kit | `██████████` **100%** | Live on GitHub (v1.0 · 0 Deps) |
 | **Feather Themes** | 1,092 photobiology WCAG AAA themes | `██████████` **100%** | Live on GitHub (v2.0 · 0 Deps) |
