@@ -20,7 +20,7 @@ I'm **Kelli Reeves-Jennings** — Founder of **CRTA Tech Solutions** and **CRTA 
 | **[feather-speed](https://github.com/kelli-dotcom/feather-speed)** | Hardware-aware adaptive frontend & backend speed engine + AI skill | Auto-tunes to live RAM, CPU cores & network (`ECO` / `BALANCED` / `ULTRA`) |
 | **[feather-themes](https://github.com/kelli-dotcom/feather-themes)** | Ultra-lightweight photobiology theme kit (Web & App) | 1,092 WCAG 2.1 AA/AAA themes · 0 deps · Powers Openflex |
 | **[agent-etiquette](https://github.com/kelli-dotcom/agent-etiquette)** | Multi-agent workflow rules & JSON handoff schemas | Rule of 2 loop cap · 3-agent cap · Agent-ready for all models |
-| **[archetype-agent-vault](https://github.com/kelli-dotcom/archetype-agent-vault)** | 7 character-driven AI coding agent suites | 27 IP-safe specialists · Zero trigger collisions · Model-agnostic |
+| **[archetype-agent-vault](https://github.com/kelli-dotcom/archetype-agent-vault)** | 12 IP-safe full-cast AI coding agent suites + 500-archetype catalog | 500 archetypes · 12 suites · Zero trigger collisions · Model-agnostic |
 | **[github-trending-kit](https://github.com/kelli-dotcom/github-trending-kit)** | AI agent & skill kit for high-converting GitHub repos | Top-README design spec · Contribution setup · SEO topics · Launch copy |
 
 ### 📊 Project Progress
