@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <title>Kelli-dotcom logo — a sprout</title>
+  <rect x="4" y="4" width="232" height="232" rx="52" fill="#052e16"/>
+  <g fill="#059669">
+    <path d="M120 200 C117 176 117 152 120 132" stroke="#059669" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M119 138 C98 140 76 126 66 98 C93 94 114 110 119 138 Z"/>
+    <path d="M121 118 C142 120 164 106 174 78 C147 74 126 90 121 118 Z"/>
+  </g>
+</svg>
