@@ -2,7 +2,7 @@
 
 Come in. I'm **Kelli Reeves-Jennings** — Founder of **CRTA Tech Solutions** and **CRTA Kidz** (Philadelphia, PA).
 
-I build practical software for food operators, schools, and remote workers — starting with the people who feed communities and kids every day.
+I build practical software for food operators, schools, and remote workers.
 
 **What I'm building**
 
@@ -10,6 +10,7 @@ I build practical software for food operators, schools, and remote workers — s
 - **GetCrowd** — food truck spots, permits, and profit, in one place
 - **School Kitchen OS** — food safety, temp logging, and inspection proof
 - **School IT Asset Tracker** — FERPA-compliant, NFC-tagged devices
+- **Human HQ** — the method that reads the human behind the draft and writes in their voice
 
 **Open source (MIT)** — agent-etiquette, archetype-agent-vault, empathy-marketing-skills, feather-speed, feather-themes, github-trending-kit, stack-blueprints, universal-master-context
 
